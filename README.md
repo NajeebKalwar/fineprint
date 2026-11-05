@@ -1,4 +1,4 @@
-# FinePrint — Generative UI Document Copilot
+# FinePrint — Generative UI Document Scanner
 
 **Decode leases, medical bills, and contracts into interactive UI widgets with bidirectional clause grounding and one-click dispute drafting.**
 
