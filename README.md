@@ -8,7 +8,6 @@
 ![Model](https://img.shields.io/badge/Model-GLM--4.7--Flash_(Z.ai)-10B981)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwindcss)
 
-![FinePrint Architecture](./public/docs/architecture.png)
 
 ---
 [![FinePrint App Screenshot](https://i.postimg.cc/4Nb4BDsm/screencapture-localhost-3000-2026-11-01-14-07-09.png)](https://postimg.cc/6yqNQ17X)
